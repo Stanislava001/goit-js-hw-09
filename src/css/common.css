@@ -16,3 +16,12 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 350px;
+    
+}
+
